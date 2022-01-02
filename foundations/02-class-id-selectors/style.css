@@ -1,0 +1,16 @@
+.odd {
+    background-color: #ff5e81;
+    font-family: Verdana, sans-serif;
+}
+#idElement {
+    color: rgb(81, 81, 255);
+    font-size: 36px;
+}
+.odd.third {
+    font-size: 24px;
+}
+#idElement2 {
+    background-color: rgb(155, 255, 116);
+    font-size: 24px;
+    font-weight: bold;
+}
