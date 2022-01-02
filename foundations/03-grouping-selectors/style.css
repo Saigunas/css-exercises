@@ -1,0 +1,13 @@
+.perpetrator, .follower {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.perpetrator {
+    background-color: black;
+    color: white;
+}
+
+.follower {
+    background-color: yellow;
+}
